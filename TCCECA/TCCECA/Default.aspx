@@ -6,7 +6,7 @@
             <hgroup class="title">
                 <h1><%: Title %>.</h1>
                 <h2>
-                       <%= TCCECA.Global.salutation %>
+                       
                        <%= salutation() %> 
                 </h2>
             </hgroup>
