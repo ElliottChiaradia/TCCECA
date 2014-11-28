@@ -1,5 +1,4 @@
-﻿<%@ Control Language="vb" AutoEventWireup="false" CodeBehind="OpenAuthProviders.ascx.vb" Inherits="TCCECA.OpenAuthProviders" %>
-
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="OpenAuthProviders.ascx.cs" Inherits="TCCECA.Account.OpenAuthProviders" %>
 
 <fieldset class="open-auth-providers">
     <legend>Log in using another service</legend>
